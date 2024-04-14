@@ -12,7 +12,7 @@ This Helm chart deploys the Outline wiki system on a Kubernetes cluster using th
 To install the chart with the release name `my-outline`:
 
 ```bash
-helm repo add outline https://redbeangit.github.io/outline
+helm repo add outline https://outline.github.io/outline
 helm install my-outline outline/outline
 ```
 
